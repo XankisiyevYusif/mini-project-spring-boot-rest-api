@@ -386,16 +386,6 @@ Workflow file:
 ```
 ---
 
-# Project Links
-
-| Resource | Link |
-|---|---|
-| Jira Board | [Open Jira](https://yusif2006xankisiyev.atlassian.net/jira/software/projects/KAN/boards/2) |
-| Live API | [Render Deployment](https://mini-project-spring-boot-rest-api.onrender.com/) |
-| API Test Endpoint | [Test Request](https://mini-project-spring-boot-rest-api.onrender.com/api/workouts) |
-
----
-
 # Deployment
 
 The application is deployed on Render using:
@@ -410,6 +400,16 @@ Environment variables:
 DATABASE_URL
 SPRING_PROFILES_ACTIVE=prod
 ```
+
+---
+
+# Project Links
+
+| Resource | Link |
+|---|---|
+| Jira Board | [Open Jira](https://yusif2006xankisiyev.atlassian.net/jira/software/projects/KAN/boards/2) |
+| Live API | [Render Deployment](https://mini-project-spring-boot-rest-api.onrender.com/) |
+| API Test Endpoint | [Test Request](https://mini-project-spring-boot-rest-api.onrender.com/api/workouts) |
 
 ---
 
