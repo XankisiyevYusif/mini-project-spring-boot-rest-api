@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b03f4c0-1828-4e36-917a-5f6b976fddbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/WorkoutapiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/WorkoutapiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/controller/WorkoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/controller/WorkoutController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/dto/request/WorkoutRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/dto/request/WorkoutRequestDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/dto/response/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/dto/response/ErrorResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/dto/response/WorkoutResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/dto/response/WorkoutResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/exception/WorkoutNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/exception/WorkoutNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/model/Workout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/model/Workout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/model/enums/Difficulty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/model/enums/Difficulty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/model/enums/MuscleGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/model/enums/MuscleGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/repository/WorkoutRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/repository/WorkoutRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/service/WorkoutService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/service/WorkoutService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/java/com/example/workoutapi/service/impl/WorkoutServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workoutapi/service/impl/WorkoutServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/resources/application-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workoutapi/src/test/java/com/example/workoutapi/WorkoutapiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/workoutapi/WorkoutapiApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b03f4c0-1828-4e36-917a-5f6b976fddbc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,23 +65,23 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.WorkoutapiApplication.executor&quot;: &quot;Run&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yusifxankisiyev/mini-project-spring-boot-rest-api&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.WorkoutapiApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yusifxankisiyev/mini-project-spring-boot-rest-api",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
