@@ -4,7 +4,7 @@ import com.example.workoutapi.dto.request.WorkoutRequestDto;
 import com.example.workoutapi.dto.response.WorkoutResponseDto;
 import com.example.workoutapi.model.enums.Difficulty;
 import com.example.workoutapi.model.enums.MuscleGroup;
-import com.example.workoutapi.service.impl.WorkoutServiceImpl;
+import com.example.workoutapi.service.WorkoutService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
@@ -25,7 +25,7 @@ import java.util.List;
 @Tag(name = "Workouts", description = "Workout management endpoints")
 public class WorkoutController {
 
-    private final WorkoutServiceImpl workoutService;
+    private final WorkoutService workoutService;
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
