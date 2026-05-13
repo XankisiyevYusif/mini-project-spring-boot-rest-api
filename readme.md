@@ -389,10 +389,11 @@ Workflow file:
 ```md
 # Project Links
 
-| Resource | Link |
-|---|---|
-| Jira Board | [Open Jira](https://yusif2006xankisiyev.atlassian.net/jira/software/projects/KAN/boards/2) |
-| Live API | [Render Deployment](https://mini-project-spring-boot-rest-api.onrender.com/api/workouts) |
+|  Resource  | Link |
+|------------|----------------------------------------------------------------------------------------------------------|
+| Jira Board | [Open Jira](https://yusif2006xankisiyev.atlassian.net/jira/software/projects/KAN/boards/2)               |
+| Live API | [Render Deployment](https://mini-project-spring-boot-rest-api.onrender.com/)                               |
+| Live API Test Request | [Render Deployment Test](https://mini-project-spring-boot-rest-api.onrender.com/api/workouts) |
 
 ---
 # Deployment
