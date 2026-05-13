@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b03f4c0-1828-4e36-917a-5f6b976fddbc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b03f4c0-1828-4e36-917a-5f6b976fddbc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,7 @@
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_/Users/yusifxankisiyev/Desktop/mini-project-spring-boot-rest-api" value="3DcckhYNvQKrHsJeOtkeLlvGQZe" />
+      <entry key="_/Users/yusifxankisiyev/mini-project-spring-boot-rest-api" value="3DezfxMIZnPmQ1kR8AGhdVyqmbv" />
     </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -39,12 +38,12 @@
     &quot;assignee&quot;: &quot;XankisiyevYusif&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/XankisiyevYusif/mini-project-spring-boot-rest-api.git",
-    "accountId": "2a648802-04f7-4c34-9f72-5ab4bb0f4f22"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/XankisiyevYusif/mini-project-spring-boot-rest-api&quot;,
+    &quot;accountId&quot;: &quot;449c98ef-2dcb-4c15-90ac-233457e145e4&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -76,13 +75,18 @@
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.WorkoutapiApplication.executor": "Run",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/exception",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/workout/mini-project-spring-boot-rest-api",
+    "last_opened_file_path": "/Users/yusifxankisiyev/mini-project-spring-boot-rest-api",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
