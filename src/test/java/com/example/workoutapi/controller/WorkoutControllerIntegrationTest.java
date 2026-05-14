@@ -29,7 +29,6 @@ class  WorkoutControllerIntegrationTest {
     @Autowired
     private MockMvc mockMvc;
 
-    @Autowired
     private ObjectMapper objectMapper;
 
     @Autowired
@@ -37,6 +36,9 @@ class  WorkoutControllerIntegrationTest {
 
     @BeforeEach
     void setUp() {
+        objectMapper = new ObjectMapper();
+        objectMapper.registerModule(new com.fasterxml.jackson.datatype.jsr310.JavaTimeModule());
+
         workoutRepository.deleteAll();
     }
 
