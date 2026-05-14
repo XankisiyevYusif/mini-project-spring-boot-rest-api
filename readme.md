@@ -413,6 +413,28 @@ SPRING_PROFILES_ACTIVE=prod
 
 ---
 
+# API Testing (Postman)
+
+## Create Workout
+![Create Workout](screenshots/201-created.png)
+
+## Get All Workouts
+![Get All](screenshots/200-get-all.png)
+
+## Get Workout by Id
+![Get By Id](screenshots/200-get-by-id.png)
+
+## Delete Example
+![Delete Successfully](screenshots/200-search.png)
+
+## Try to Delete Invalid Id Example
+![404 Error](screenshots/404-not-found.png)
+
+## Search Example
+![Search](screenshots/200-search.png)
+
+---
+
 # Future Improvements
 
 * Authentication with Spring Security
