@@ -6,3 +6,5 @@ mvnw
 mvnw.cmd
 .git/
 .gitignore
+.env
+.env.example
