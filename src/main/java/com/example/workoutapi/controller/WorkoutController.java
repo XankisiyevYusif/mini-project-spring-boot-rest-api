@@ -27,7 +27,7 @@ public class WorkoutController {
 
     private final WorkoutService workoutService;
 
-    @PostMapping
+    @PostMapping("/create")
     @ResponseStatus(HttpStatus.CREATED)
     @Operation(summary = "Create a new workout")
     public ResponseEntity<WorkoutResponseDto> createWorkout(@Valid @RequestBody WorkoutRequestDto request) {
