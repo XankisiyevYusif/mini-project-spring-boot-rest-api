@@ -1,7 +1,7 @@
 package com.example.workoutapi.controller;
 
 import com.example.workoutapi.repository.WorkoutRepository;
-import tools.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.example.workoutapi.dto.request.WorkoutRequestDto;
 import com.example.workoutapi.model.enums.Difficulty;
 import com.example.workoutapi.model.enums.MuscleGroup;
